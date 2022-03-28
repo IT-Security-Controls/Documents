@@ -1,7 +1,7 @@
 # Documents
 Resources from IT Security Controls Book - Resource Library
 
-*Last updated: 20220315*
+*Last updated: 20220328*
 
 ## [NIST SP 800-53 Rev. 5 Security and Privacy Controls for Information Systems and Organizations](https://doi.org/10.6028/NIST.SP.800-53r5)
 This publication provides a catalog of security and privacy controls for information systems and organizations to protect organizational operations and assets, individuals, other organizations, and the Nation from a diverse set of threats and risks, including hostile attacks, human errors, natural disasters, structural failures, foreign intelligence entities, and privacy risks. The controls are flexible and customizable and implemented as part of an organization-wide process to manage risk. The controls address diverse requirements derived from mission and business needs, laws, executive orders, directives, regulations, policies, standards, and guidelines. Finally, the consolidated control catalog addresses security and privacy from a functionality perspective (i.e., the strength of functions and mechanisms provided by the controls) and from an assurance perspective (i.e., the measure of confidence in the security or privacy capability provided by the controls). Addressing functionality and assurance helps to ensure that information technology products and the systems that rely on those products are sufficiently trustworthy.
@@ -280,3 +280,5 @@ The OWASP Top 10 is an awareness document for developers and web application sec
 ## [CVE List](https://cve.mitre.org/index.html)
 The mission of the CVE Program is to identify, define, and catalog publicly disclosed cybersecurity vulnerabilities.
 
+## [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+The list for known exploited vulnerabilities in the wild.
