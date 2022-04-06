@@ -282,3 +282,6 @@ The mission of the CVE Program is to identify, define, and catalog publicly disc
 
 ## [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 The list for known exploited vulnerabilities in the wild.
+
+## [Guide to the Internet of Things (IoT) Security Controls Framework v2 by Cloud Security Alliance](https://cloudsecurityalliance.org/artifacts/guide-to-the-internet-of-things-iot-security-controls-framework-v2/)
+The IoT Security Controls Framework Version 2 is relevant for enterprise IoT systems that incorporate multiple types of connected devices, cloud services, and networking technologies. The Framework has utility across many IoT domains from systems processing only “low-value” data with limited impact potential, to highly sensitive systems that support critical services. The classification of a system is assigned by the system owner based on the value of the data being stored and processed and the potential impact of various types of physical security threats.
